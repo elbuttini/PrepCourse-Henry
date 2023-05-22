@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo 2 de la prueba de henry
+Prueba de como crear un repositorio y guardarlo en mi escritorio
+
